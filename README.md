@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hunnyjain7
+- 👋 Hi, Hunny here on the road of Python Developer
 - 👀 I’m interested in Python
 - 👀 Eager to Master Python
 - 📫 How to reach me hunnyjain711@gmail.com
