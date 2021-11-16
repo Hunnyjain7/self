@@ -1,11 +1,13 @@
 - 👋 Hi, Hunny here on the road of Python Developer
 - 👀 I’m interested in Python
 - 👀 Eager to Master Python
-- 📫 How to reach me hunnyjain711@gmail.com
+- 👀 Django Framework
+- 📫 hunnyjain711@gmail.com
 
 
 🛠  Languages:
-    Python, C language, HTML. 
+    Python, C language.
+    HTML, Django, Flask
 
 
 <!---
