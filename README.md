@@ -5,8 +5,8 @@
 - 📫 hunnyjain711@gmail.com
 
 
-🛠  Python, C language.
-    HTML, Django, Flask
+🛠  Python, C language,
+    HTML, Django, Flask, Bootstrap
 
 
 <!---
