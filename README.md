@@ -1,12 +1,12 @@
-- 👋 Hi, Hunny here on the road of Python Developer
+- 👋 Hi Hunny here, on the road to Expertise Python Development.
 - 👀 I’m interested in Python
 - 👀 Eager to Master Python
 - 👀 Django Framework
 - 📫 hunnyjain711@gmail.com
 
 
-🛠  Python, C language,
-    HTML, Django, Flask, Bootstrap
+🛠  Python, C language, HTML
+    Django, Flask, Bootstrap
 
 
 <!---
