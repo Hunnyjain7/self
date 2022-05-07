@@ -5,8 +5,7 @@
 - 📫 hunnyjain711@gmail.com
 
 
-🛠  Python, C language, HTML
-    Django, Flask, Bootstrap
+🛠  Python, C language, Django, JavaScript, JQuery, Flask, HTML, CSS, Bootstrap, PyQt5, Web Sockets, Web Scraping.
 
 
 <!---
