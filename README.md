@@ -1,7 +1,5 @@
 - 👋 Hi Hunny here, on the road to Expertise Python Development.
-- 👀 I’m interested in Python
-- 👀 Eager to Master Python
-- 👀 Django Framework
+- 👀 A Python Developer creating products from sratch and solving Business Problems.
 - 📫 hunnyjain711@gmail.com
 
 
