@@ -1,9 +1,14 @@
 - 👋 Hi Hunny here, on the road to Expertise Python Development.
+- 👀 It's a never ending grind for python.
 - 👀 A Python Developer creating products from sratch and solving Business Problems.
 - 📫 hunnyjain711@gmail.com
 
 
-🛠  Python, C language, Django, JavaScript, JQuery, Flask, HTML, CSS, Bootstrap, PyQt5, Web Sockets, Web Scraping.
+🛠  Python, Django, FastAPi, Flask, Django REST framework, Web Scraping, Web Crawling, Web Automation, PyQt5, Qt Designer, JavaScript, JQuery, Ajax, HTML, CSS, Bootstrap, Font Awesome, Web Sockets, C language.
+🛠  AWS EC2 Instance, AWS lambda, AWS Lightsail, Google Firebase, AWS API Gateway.
+🛠  MySql, PostgressSQL.
+🛠  Redis (In-memory data storage)
+🛠  Amazon Alexa Smart-Home Skills, Google Action Smart Home
 
 
 <!---
